@@ -11,7 +11,7 @@ In the following example, the <code>Bird</code> constructor defines two properti
 
 ```js
 function Bird(name) {
-  this.name  = name;
+  this.name = name;
   this.numLegs = 2;
 }
 
